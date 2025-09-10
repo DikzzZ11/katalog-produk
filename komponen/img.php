@@ -7,13 +7,13 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="img-fluid" src="nav-img(2).jpeg" class="d-block w-100" alt="...">
+      <img class="img-fluid" src="foto/nav-img(2).jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img   class="img-fluid" src="nav-img(1).jpeg" class="d-block w-100" alt="...">
+      <img   class="img-fluid" src="foto/nav-img(1).jpeg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img  class="img-fluid" src="1(1).jpeg" class="d-block w-100" alt="...">
+      <img  class="img-fluid" src="foto/1(1).jpeg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
