@@ -11,7 +11,7 @@
         <li><a href="#">Shop</a></li>
         <li><a href="#">Features</a></li>
         <li><a href="#">Contact Us</a></li>
-        <li><a href="#">tester</a></li>
+        
       </ul>
     </div>
     <div class="footer-column">

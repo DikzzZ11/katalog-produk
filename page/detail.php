@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>STUSSY - Insulated Work Jacket Raw Denim</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-   <link rel="stylesheet" href="detail.css">
+   <link rel="stylesheet" href="CSS/detail.css">
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
 <!--font-->
@@ -34,7 +34,7 @@
             Shop
           </a>
           <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="all.html">All</a></li>
+              <li><a class="dropdown-item" href="shop-all.php">All</a></li>
             <li><a class="dropdown-item" href="t-shirt.html">T-Shirt</a></li>
             <li><a class="dropdown-item" href="sweat.html">Sweat</a></li>
             <li><hr class="dropdown-divider"></li>
@@ -53,7 +53,7 @@
     <main class="container">
         <section class="product-section">
             <div class="product-image">
-                <img src="jaketbagus.jpeg" alt="Insulated Work Jacket Raw Denim">
+                <img src="foto/WhatsApp Image 2025-07-23 at 10.00.09.jpeg" alt="Insulated Work Jacket Raw Denim">
             </div>
             
 
@@ -105,8 +105,8 @@
             </div>
         </section>
     </main>
-
-    <footer class="footer">
+<!--footer-->
+  <footer class="footer">
   <div class="footer-container">
     <div class="footer-column">
       <h3 style=" font-family: 'Irish Grover';">Stussy</h3>
@@ -135,8 +135,6 @@
     <p>&copy; 2025 Stussy. All rights reserved.</p>
   </div>
 </footer>
-
-
 
     <script>
         // Tab functionality
