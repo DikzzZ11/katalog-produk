@@ -64,9 +64,9 @@
         </li>
         <li class="pc-item">
           <!-- <a href="../elements/bc_typography.html" class="pc-link"> -->
-            <a href="#" class="pc-link">
+            <a href="page/shop-all.php" class="pc-link">
             <span class="pc-micon"><i class="ti ti-typography"></i></span>
-            <span class="pc-mtext">Typography</span>
+            <span class="pc-mtext">input genre</span>
           </a>
         </li>
         <li class="pc-item">
