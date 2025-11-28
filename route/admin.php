@@ -1,9 +1,9 @@
 
 <?php
 // session_start();
-// require_once('../../config/Database.php');
-// require_once('../../model/models.php');
-// require_once('../../controller/controllers.php');
+ require_once('../config/Database.php');
+require_once('../model/models.php');
+require_once('../controller/Controller.php');
 
 
 
@@ -12,7 +12,7 @@ $action = $_GET['action'] ?? 'index';
 
 // $action = $_GET['action'] ?? 'index';
 
-// $genre = new AdminGenreController();
+$genre = new AdminGenreController();
 
 // Routes for admin panel
 

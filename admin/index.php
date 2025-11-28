@@ -63,17 +63,15 @@
           <i class="ti ti-dashboard"></i>
         </li>
         <li class="pc-item">
-        <!-- <a href="../elements/bc_typography.html" class="pc-link"> -->
-            <a href="?admin-page=genre" class="pc-link">
+            <a href="?page=genre&action=create" class="pc-link">
             <span class="pc-micon"><i class="ti ti-typography"></i></span>
-            <spa  n class="pc-mtext">input genre</span>
+            <span class="pc-mtext">Input Genre</span>
           </a>
         </li>
-        <li class="pc-item">
-          <!-- <a href="../elements/bc_color.html" class="pc-link"> -->
-            <a href="#" class="pc-link">
+         <li class="pc-item">
+            <a href="?page=genre&action=index" class="pc-link">
             <span class="pc-micon"><i class="ti ti-color-swatch"></i></span>
-            <span class="pc-mtext">Color</span>
+            <span class="pc-mtext">Tampil Genre</span>
           </a>
         </li>
         <li class="pc-item">
