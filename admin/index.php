@@ -52,7 +52,7 @@
     <div class="navbar-content">
       <ul class="pc-navbar">
         <li class="pc-item">
-          <a href="?page-admin=dasboard" class="pc-link">
+          <a href="?admin_page=dasboard" class="pc-link">
             <span class="pc-micon"><i class="ti ti-dashboard"></i></span>
             <span class="pc-mtext">Dashboard</span>
           </a>
@@ -345,7 +345,7 @@
       <!-- [ Main Content ] start -->
       
         <?php 
-            include "./admin-page/dashboard.php"
+            include "../route/admin.php"
         ?>
 
     </div>
