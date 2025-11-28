@@ -15,11 +15,11 @@ class AdminGenreController {
         $result = $stmt->get_result();
         $genres = $result->fetch_all(MYSQLI_ASSOC);
 
-        include "page/view_genre.php";
+        include "admin_page/view_genre.php";
     }
 
     public function create() {
-        include "page/input_genre.php";
+        include "admin_page/input_genre.php";
     }
 
     public function store() {
